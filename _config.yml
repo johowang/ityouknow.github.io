@@ -15,9 +15,9 @@ keywords: Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,Java,Python,
 encoding: "utf-8"
 favicon: favicon.ico 
 
-repository: johowang/smileit.github.io/
-github_url: https://johowang.github.io/smileit.github.io/
-url: https://smileit.github.io/
+repository: johowang/smileit.github.io
+github_url: https://github.com/johowang
+url: https://johowang.github.io
 enforce_ssl: ityouknow.com
 
 ## Gem
